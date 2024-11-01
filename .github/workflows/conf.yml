@@ -12,4 +12,3 @@ jobs:
       - name: Build the app
         env:
           VUE_APP_GOOGLE_ANALYTICS: ${{ secrets.GOOGLE_ANALYTICS }}
-        run: yarn build
