@@ -1,0 +1,60 @@
+:root {
+    --deep-sea: #0a192f;
+    --silver: #8a92b1;
+    --green-sea: #64ffda;
+    --lazuli: #ccd6f6;
+    --dark-sea: #112240;
+    --main-font: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', 'system-ui', 'sans-serif';
+    --secondary-font: 'SF Mono','Fira Code','Fira Mono','Roboto Mono',monospace;
+}
+
+*{
+    scrollbar-color: var(--silver) var(--deep-sea)!important;
+    scrollbar-width: thin!important;
+    font-family: var(--secondary-font);
+}
+body{
+    overflow-x: hidden;
+}
+
+.small-icon{
+    font-size: 1.5em!important;
+}
+.icon-md{
+    font-size: 1.2em!important;
+}
+.icon-lg{
+    font-size: 1.6em!important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.rounded-none{
+    border-radius: 0px!important;
+}
+
+.m-dashboard-w{
+    width: 60rem!important;
+    max-width: 60rem!important;
+}
+.m-form-w{
+    width: 30rem!important;
+    max-width: 30rem!important;
+}
+.max-w-20{
+    max-width: 20rem!important;
+}
+
+.animated-btn{
+    border-color: var('bg-green-sea')!important;
+}
+.animated-btn:hover{
+    transform: translate(-4px, -4px); 
+    transition: 0.4s ease!important;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+}
+.animated-btn:not(:hover) {
+    transform: translate(0px, 0px); 
+    transition: 0.4s ease!important;
+}

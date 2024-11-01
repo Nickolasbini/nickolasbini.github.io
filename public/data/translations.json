@@ -1,0 +1,237 @@
+{
+    "hi, my name is": {
+        "en": "hi, my name is",
+        "pt": "oi, meu nome é",
+        "es": "hola, mi nombre es"
+    },
+    "i create websites and apps.": {
+        "en": "i create websites and apps.",
+        "pt": "eu crio sites e aplicativos.",
+        "es": "creo sitios web y aplicaciones."
+    },
+    "i am a full stack developer with experience in various technologies and passionate about creating efficient and scalable solutions. My focus is to combine performance with the best user experience.": {
+        "en": "i am a full stack developer with experience in various technologies and passionate about creating efficient and scalable solutions. My focus is to combine performance with the best user experience.",
+        "pt": "sou um desenvolvedor full stack com experiência em diversas tecnologias e apaixonado por criar soluções eficientes e escaláveis. Meu foco é combinar performance com a melhor experiência de usuário.",
+        "es": "soy un desarrollador full stack con experiencia en diversas tecnologías y apasionado por crear soluciones eficientes y escalables. Mi objetivo es combinar el rendimiento con la mejor experiencia de usuario."
+    },
+    "about": {
+        "en": "about",
+        "pt": "sobre",
+        "es": "acerca de mí"
+    },
+    "experiences": {
+        "en": "experiences",
+        "pt": "experiencias",
+        "es": "experiencias"
+    },
+    "contact": {
+        "en": "contact",
+        "pt": "contato",
+        "es": "contacto"
+    },
+    "curriculum": {
+        "en": "curriculum",
+        "pt": "curriculo",
+        "es": "curriculo"
+    },
+    "hello! My name is Nickolas Alvaro Bini and I am passionate about developing digital experiences that live on the internet. My interest in web development began a few years ago, when I started working with APIs and exploring the power of PHP and JavaScript. This journey taught me a lot about building dynamic and interactive applications.": {
+        "en": "hello! My name is Nickolas Alvaro Bini and I am passionate about developing digital experiences that live on the internet. My interest in web development began a few years ago, when I started working with APIs and exploring the power of PHP and JavaScript. This journey taught me a lot about building dynamic and interactive applications.",
+        "pt": "olá! Meu nome é Nickolas Alvaro Bini e sou apaixonado por desenvolver experiências digitais que vivem na internet. Meu interesse por desenvolvimento web começou há alguns anos, quando comecei a trabalhar com APIs e a explorar o poder do PHP e JavaScript. Esse percurso me ensinou muito sobre construir aplicações dinâmicas e interativas.",
+        "es": "¡Hola! Mi nombre es Nickolas Alvaro Bini y me apasiona desarrollar experiencias digitales que viven en internet. Mi interés por el desarrollo web comenzó hace unos años, cuando comencé a trabajar con API y a explorar el poder de PHP y JavaScript. Este viaje me enseñó mucho sobre la creación de aplicaciones dinámicas e interactivas."
+    },
+    "i have a degree in Information Systems and I am pleased to have worked in agencies, startups and large corporations, where I was able to collaborate on a variety of projects, each challenging in its own way. Currently, my main focus is building accessible products and inclusive digital experiences that positively impact users. I work with a diverse set of stacks, which allows me to adapt solutions to different contexts and needs.": {
+        "en": "i have a degree in Information Systems and I am pleased to have worked in agencies, startups and large corporations, where I was able to collaborate on a variety of projects, each challenging in its own way. Currently, my main focus is building accessible products and inclusive digital experiences that positively impact users. I work with a diverse set of stacks, which allows me to adapt solutions to different contexts and needs.",
+        "pt": "sou formado em Sistemas de Informação e tenho a satisfação de já ter atuado em agências, startups e em grandes corporações, onde pude colaborar em projetos variados, cada um desafiador à sua maneira. Atualmente, meu foco principal é construir produtos acessíveis e experiências digitais inclusivas que impactem positivamente os usuários. Trabalho com um conjunto diversificado de stacks, o que me permite adaptar soluções para diferentes contextos e necessidades.",
+        "es": "soy Licenciado en Sistemas de Información y me complace haber trabajado en agencias, startups y grandes corporaciones, donde pude colaborar en una variedad de proyectos, cada uno desafiante a su manera. Actualmente, mi enfoque principal es construir productos accesibles y experiencias digitales inclusivas que impacten positivamente a los usuarios. Trabajo con un conjunto diverso de pilas, lo que me permite adaptar soluciones a diferentes contextos y necesidades."
+    },
+    "here are some of the technologies I've been working on lately:": {
+        "en": "here are some of the technologies I've been working on lately:",
+        "pt": "aqui estão algumas das tecnologias que venho trabalhando ultimamente:",
+        "es": "estas son algunas de las tecnologías en las que he estado trabajando últimamente:"
+    },
+    "current job": {
+        "en": "current job",
+        "pt": "trabalho atual",
+        "es": "trabajo actual"
+    },
+    "i am currently involved in the maintenance and enhancement of an existing system that is a leading CRM solution for automotive dealerships in the national market. My work centers on ensuring that the system remains competitive and valuable for clients across the industry.": {
+        "en": "i am currently involved in the maintenance and enhancement of an existing system that is a leading CRM solution for automotive dealerships in the national market. My work centers on ensuring that the system remains competitive and valuable for clients across the industry.",
+        "pt": "atualmente estou envolvido na manutenção e aprimoramento de um sistema existente que é uma solução de CRM líder para concessionárias automotivas no mercado nacional. Meu trabalho se concentra em garantir que o sistema permaneça competitivo e valioso para clientes de todo o setor.",
+        "es": "actualmente estoy involucrado en el mantenimiento y mejora de un sistema existente que es una solución CRM líder para concesionarios de automóviles en el mercado nacional. Mi trabajo se centra en garantizar que el sistema siga siendo competitivo y valioso para los clientes de toda la industria."
+    },
+    "in this role, I primarily work with Laravel and Vue.js, which allows me to efficiently implement both back-end and front-end improvements. I am responsible for ongoing optimizations, future upgrades, and refining existing functionalities to align with the latest industry standards and user expectations.": {
+        "en": "in this role, I primarily work with Laravel and Vue.js, which allows me to efficiently implement both back-end and front-end improvements. I am responsible for ongoing optimizations, future upgrades, and refining existing functionalities to align with the latest industry standards and user expectations.",
+        "pt": "atualmente estou envolvido na manutenção e aprimoramento de um sistema existente que é uma solução de CRM líder para concessionárias automotivas no mercado nacional. Meu trabalho se concentra em garantir que o sistema permaneça competitivo e valioso para clientes de todo o setor.",
+        "es": "actualmente estoy involucrado en el mantenimiento y mejora de un sistema existente que es una solución CRM líder para concesionarios de automóviles en el mercado nacional. Mi trabajo se centra en garantizar que el sistema siga siendo competitivo y valioso para los clientes de toda la industria."
+    },
+    "my focus also includes developing new features that support the evolving needs of dealerships, ensuring that our CRM platform continuously adapts to market demands and provides clients with reliable and user-friendly tools for customer relationship management.": {
+        "en": "my focus also includes developing new features that support the evolving needs of dealerships, ensuring that our CRM platform continuously adapts to market demands and provides clients with reliable and user-friendly tools for customer relationship management.",
+        "pt": "meu foco também inclui o desenvolvimento de novos recursos que atendam às crescentes necessidades das concessionárias, garantindo que nossa plataforma de CRM se adapte continuamente às demandas do mercado e forneça aos clientes ferramentas confiáveis ​​e fáceis de usar para gerenciamento de relacionamento com o cliente.",
+        "es": "mi enfoque también incluye el desarrollo de nuevas funciones que respalden las necesidades cambiantes de los concesionarios, garantizando que nuestra plataforma CRM se adapte continuamente a las demandas del mercado y brinde a los clientes herramientas confiables y fáciles de usar para la gestión de relaciones con los clientes."
+    },
+    "i worked as an outsourced service provider for a state-owned banking system in Brasília known as BRB. My role involved regular collaboration within the team to ensure the delivery of high-quality, reliable solutions for the banking sector.": {
+        "en": "i worked as an outsourced service provider for a state-owned banking system in Brasília known as BRB. My role involved regular collaboration within the team to ensure the delivery of high-quality, reliable solutions for the banking sector.",
+        "pt": "trabalhei como prestador de serviços terceirizado para um sistema bancário estatal de Brasília conhecido como BRB. A minha função envolveu a colaboração regular dentro da equipa para garantir a entrega de soluções fiáveis ​​e de alta qualidade para o setor bancário.",
+        "es": "trabajé como proveedor de servicios subcontratados para un sistema bancario estatal en Brasilia conocido como BRB. Mi función implicaba la colaboración regular dentro del equipo para garantizar la entrega de soluciones confiables y de alta calidad para el sector bancario."
+    },
+    "in this position, I participated in meetings with the Product Owner, following an agile methodology that included reviews and planning sessions. My responsibilities encompassed requirements analysis, sprint creation, and ongoing development of new features and general system maintenance.": {
+        "en": "in this position, I participated in meetings with the Product Owner, following an agile methodology that included reviews and planning sessions. My responsibilities encompassed requirements analysis, sprint creation, and ongoing development of new features and general system maintenance.",
+        "pt": "nesta posição, participei de reuniões com o Product Owner, seguindo uma metodologia ágil que incluía revisões e sessões de planejamento. Minhas responsabilidades abrangiam análise de requisitos, criação de sprints e desenvolvimento contínuo de novos recursos e manutenção geral do sistema.",
+        "es": "en este puesto participé en reuniones con el Product Owner, siguiendo una metodología ágil que incluía revisiones y sesiones de planificación. Mis responsabilidades abarcaban el análisis de requisitos, la creación de sprints y el desarrollo continuo de nuevas funciones y el mantenimiento general del sistema."
+    },
+    "the development was primarily done in PHP, where I focused on both enhancing the system with new functionalities and ensuring the stability of existing features to support BRB's financial services effectively.": {
+        "en": "the development was primarily done in PHP, where I focused on both enhancing the system with new functionalities and ensuring the stability of existing features to support BRB's financial services effectively.",
+        "pt": "o desenvolvimento foi feito principalmente em PHP, onde me concentrei tanto em aprimorar o sistema com novas funcionalidades quanto em garantir a estabilidade dos recursos existentes para suportar de forma eficaz os serviços financeiros do BRB.",
+        "es": "el desarrollo se realizó principalmente en PHP, donde me centré tanto en mejorar el sistema con nuevas funcionalidades como en garantizar la estabilidad de las características existentes para respaldar los servicios financieros de BRB de manera efectiva."
+    },
+    "development of new features and maintenance of existing systems using PHP and the Laravel framework, alongside the creation of specific-purpose REST APIs.": {
+        "en": "development of new features and maintenance of existing systems using PHP and the Laravel framework, alongside the creation of specific-purpose REST APIs.",
+        "pt": "desenvolvimento de novas funcionalidades e manutenção de sistemas existentes utilizando PHP e framework Laravel, além da criação de APIs REST para fins específicos.",
+        "es": "desarrollo de nuevas funcionalidades y mantenimiento de sistemas existentes utilizando PHP y el framework Laravel, junto con la creación de API REST de propósito específico."
+    },
+    "as this systems I developed were for a state agency, I developed secure and robust APIs to ensure safe and efficient data exchange, prioritizing reliability and compliance with data standards.": {
+        "en": "as this systems I developed were for a state agency, I developed secure and robust APIs to ensure safe and efficient data exchange, prioritizing reliability and compliance with data standards.",
+        "pt": "como os sistemas que desenvolvi eram para um órgão estadual, desenvolvi APIs seguras e robustas para garantir a troca de dados segura e eficiente, priorizando a confiabilidade e o cumprimento dos padrões de dados.",
+        "es": "como estos sistemas que desarrollé eran para una agencia estatal, desarrollé API seguras y robustas para garantizar un intercambio de datos seguro y eficiente, priorizando la confiabilidad y el cumplimiento de los estándares de datos."
+    },
+    "junior Developer with Full Stack skills, focused on building and maintaining dynamic and efficient applications.": {
+        "en": "junior Developer with Full Stack skills, focused on building and maintaining dynamic and efficient applications.",
+        "pt": "desenvolvedor Junior com habilidades Full Stack, focado na construção e manutenção de aplicações dinâmicas e eficientes.",
+        "es": "desarrollador Junior con habilidades Full Stack, enfocado en construir y mantener aplicaciones dinámicas y eficientes."
+    },
+    "i have solid experience with technologies like PHP, JavaScript, and jQuery, along with expertise in front-end frameworks such as HTML and CSS to create interactive and responsive interfaces.": {
+        "en": "i have solid experience with technologies like PHP, JavaScript, and jQuery, along with expertise in front-end frameworks such as HTML and CSS to create interactive and responsive interfaces.",
+        "pt": "tenho sólida experiência com tecnologias como PHP, JavaScript e jQuery, além de expertise em frameworks front-end como HTML e CSS para criação de interfaces interativas e responsivas.",
+        "es": "tengo una sólida experiencia con tecnologías como PHP, JavaScript y jQuery, junto con experiencia en frameworks front-end como HTML y CSS para crear interfaces interactivas y responsivas."
+    },
+    "with proficiency in version control and database tools like Git and phpMyAdmin, as well as JSON for data exchange, I am dedicated to creating well-structured and easily maintainable solutions.": {
+        "en": "with proficiency in version control and database tools like Git and phpMyAdmin, as well as JSON for data exchange, I am dedicated to creating well-structured and easily maintainable solutions.",
+        "pt": "com proficiência em controle de versão e ferramentas de banco de dados como Git e phpMyAdmin, além de JSON para troca de dados, me dedico a criar soluções bem estruturadas e de fácil manutenção.",
+        "es": "con dominio de control de versiones y herramientas de bases de datos como Git y phpMyAdmin, así como JSON para intercambio de datos, me dedico a crear soluciones bien estructuradas y de fácil mantenimiento."
+    },
+    "while I'm not actively seeking new opportunities right now, my inbox is always open. If you have any questions or just want to reach out, feel free to drop me a message. I’ll do my best to respond!": {
+        "en": "while I'm not actively seeking new opportunities right now, my inbox is always open. If you have any questions or just want to reach out, feel free to drop me a message. I’ll do my best to respond!",
+        "pt": "embora eu não esteja buscando ativamente novas oportunidades no momento, minha caixa de entrada está sempre aberta. Se você tiver alguma dúvida ou apenas quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem. Farei o meu melhor para responder!",
+        "es": "si bien no estoy buscando activamente nuevas oportunidades en este momento, mi bandeja de entrada siempre está abierta. Si tiene alguna pregunta o simplemente desea comunicarse, no dude en enviarme un mensaje. ¡Haré todo lo posible para responder!"
+    },
+    "say hi": {
+        "en": "say hi",
+        "pt": "diga oi",
+        "es": "saluda me"
+    },
+    "built by": {
+        "en": "built by",
+        "pt": "construido por",
+        "es": "construido por"
+    },
+    "january": {
+        "en": "january",
+        "pt": "janeiro",
+        "es": "enero"
+    },
+    "february": {
+        "en": "february",
+        "pt": "fevereiro",
+        "es": "febrero"
+    },
+    "march": {
+        "en": "march",
+        "pt": "março",
+        "es": "marzo"
+    },
+    "april": {
+        "en": "april",
+        "pt": "abril",
+        "es": "abril"
+    },
+    "may": {
+        "en": "may",
+        "pt": "maio",
+        "es": "mayo"
+    },
+    "june": {
+        "en": "june",
+        "pt": "junho",
+        "es": "junio"
+    },
+    "july": {
+        "en": "july",
+        "pt": "julho",
+        "es": "julio"
+    },
+    "august": {
+        "en": "august",
+        "pt": "agosto",
+        "es": "agosto"
+    },
+    "september": {
+        "en": "september",
+        "pt": "setembro",
+        "es": "septiembre"
+    },
+    "october": {
+        "en": "october",
+        "pt": "outubro",
+        "es": "octubre"
+    },
+    "november": {
+        "en": "november",
+        "pt": "novembro",
+        "es": "noviembre"
+    },
+    "december": {
+        "en": "december",
+        "pt": "dezembro",
+        "es": "diciembre"
+    },
+    "full stack developer": {
+        "en": "full stack developer",
+        "pt": "desenvolvedor fullstack",
+        "es": "desarrollador de pila completa"
+    },
+    "software development analyst": {
+        "en": "software development analyst",
+        "pt": "analista de desenvolvimento de software",
+        "es": "analista de desarrollo de software"
+    },
+    "developer": {
+        "en": "developer",
+        "pt": "desenvolvedor",
+        "es": "desarrollador"
+    },
+    "junior developer": {
+        "en": "junior developer",
+        "pt": "desenvolvedor júnior",
+        "es": "desarrollador junior"
+    },
+    "english": {
+        "en": "english",
+        "pt": "inglês",
+        "es": "inglés"
+    },
+    "portuguese": {
+        "en": "portuguese",
+        "pt": "português",
+        "es": "portugués"
+    },
+    "spanish": {
+        "en": "spanish",
+        "pt": "espanhol",
+        "es": "español"
+    },
+    "choose language": {
+        "en": "choose language",
+        "pt": "escolha idioma",
+        "es": "elegir idioma"
+    },
+    "language changed": {
+        "en": "language changed",
+        "pt": "idioma alterado",
+        "es": "idioma cambiado"
+    },
+    "loading": {
+        "en": "loading",
+        "pt": "carregando",
+        "es": "cargando"
+    }
+}
