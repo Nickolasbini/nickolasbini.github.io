@@ -158,7 +158,7 @@
         if(!languages.value.includes(lang))
             lang = 'en';
         await store.dispatch('changeLanguage', {langIso: lang});
-        showToast(toast, 'language changed', 'ucfirst');
+        showToast(toast, translate('language changed', 'ucfirst'));
         visibleLangDialog.value = false;
         selectedLanguage.value = lang;
     }
