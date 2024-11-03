@@ -3,7 +3,7 @@ export function showToast(toast, message, severity = 'success', seconds = 5000, 
     if(!severities.includes(severity))
         severity = 'success';
     if(title == '')
-        title = process.env.VUE_APP_NAME;
+        title = process.env.VUE_APP_NAME.replaceAll('"', '');
     if(severity == 'error')
         message += '!';
     toast.add({ severity: severity, summary: title, detail: message, life: seconds });

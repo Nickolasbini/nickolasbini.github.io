@@ -37,8 +37,6 @@
 
   const pageContent = ref(null);
   onMounted(() => {
-    console.log('E')
-    console.log(process.env.VUE_APP_GOOGLE_ANALYTICS);
     showPageContent();
   })
 
