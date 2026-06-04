@@ -1,0 +1,51 @@
+name: Deploy Vue.js to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Altere para 'master' se a sua branch principal tiver esse nome
+
+# Permissões necessárias para o GitHub Actions interagir com o Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Garante que apenas um deploy rode por vez
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps:deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-size: 20
+          cache: 'yarn' # Altere para 'npm' se decidir usar o npm futuramente
+
+      - name: Instalar Dependências
+        run: yarn install
+
+      - name: Build do Projeto
+        run: yarn build
+
+      - name: Configurar Páginas do GitHub
+        uses: actions/configure-pages@v4
+
+      - name: Upload do Artefato (pasta dist)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
