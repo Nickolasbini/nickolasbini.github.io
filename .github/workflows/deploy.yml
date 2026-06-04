@@ -3,7 +3,7 @@ name: Deploy Vue.js to GitHub Pages
 on:
   push:
     branches:
-      - main # Garanta que o nome da sua branch principal é 'main' (ou mude para 'master' se for o caso)
+      - main
 
 permissions:
   contents: read
@@ -14,11 +14,15 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# Adicionada essa linha para forçar o runner a usar a versão correta exigida pelo GitHub
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }} # Corrigido aqui: trocado ':' por '.'
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Código
@@ -27,7 +31,7 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24 # Atualizado para o Node 24
           cache: 'yarn'
 
       - name: Instalar Dependências
