@@ -3,15 +3,13 @@ name: Deploy Vue.js to GitHub Pages
 on:
   push:
     branches:
-      - main # Altere para 'master' se a sua branch principal tiver esse nome
+      - main # Garanta que o nome da sua branch principal é 'main' (ou mude para 'master' se for o caso)
 
-# Permissões necessárias para o GitHub Actions interagir com o Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Garante que apenas um deploy rode por vez
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -20,7 +18,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps:deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }} # Corrigido aqui: trocado ':' por '.'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Código
@@ -29,8 +27,8 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-size: 20
-          cache: 'yarn' # Altere para 'npm' se decidir usar o npm futuramente
+          node-version: 20
+          cache: 'yarn'
 
       - name: Instalar Dependências
         run: yarn install
