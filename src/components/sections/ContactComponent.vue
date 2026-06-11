@@ -1,12 +1,12 @@
 <template>
     <section id="contact" class="w-full md:w-3/6 mx-auto mt-40 text-left">
         <p class="flex justify-left items-center pr-5 pb-8">
-          <span class="text-green-sea text-2xl">03.</span> 
+          <span class="text-green-sea text-2xl">04.</span> 
           <span class="text-lazuli ml-2 text-3xl">{{ translate('contact', 'ucfirst') }}</span>
           <span class="bg-lazuli overflow-hidden ml-3" style="width: 300px; height: 1px; opacity: 0.4"></span>
         </p>
         <p class="text-2xl font-normal">
-            {{ translate(`while I'm not actively seeking new opportunities right now, my inbox is always open. If you have any questions or just want to reach out, feel free to drop me a message. I’ll do my best to respond!`, 'ucfirst') }}
+            {{ translate(`have a project in mind, a challenge to solve or just want to talk code? My inbox is always open - whether it's a freelance project, a collaboration or a quick question. Drop me a message and I'll get back to you as soon as possible.`, 'ucfirst') }}
         </p>
         <div class="text-center pt-10">
             <a href="https://wa.me/5541984320432" target="_blank">

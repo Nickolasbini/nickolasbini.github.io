@@ -56,10 +56,7 @@
     import { translate } from '@/composables/translate';
     import store from '@/store';
     import Dialog from 'primevue/dialog';
-    import { showToast } from '@/composables/toast';
-    import { useToast } from 'primevue/usetoast';
 
-    const toast = useToast();
     const breakpoint = 640;
     const items = ref([
         {
@@ -69,6 +66,10 @@
         {
             label: 'experiences',
             ref: 'experience'
+        },
+        {
+            label: 'projects',
+            ref: 'projects'
         },
         {
             label: 'contact',
@@ -158,7 +159,6 @@
         if(!languages.value.includes(lang))
             lang = 'en';
         await store.dispatch('changeLanguage', {langIso: lang});
-        showToast(toast, translate('language changed', 'ucfirst'));
         visibleLangDialog.value = false;
         selectedLanguage.value = lang;
     }

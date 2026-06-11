@@ -58,18 +58,18 @@
             "my focus also includes developing new features that support the evolving needs of dealerships, ensuring that our CRM platform continuously adapts to market demands and provides clients with reliable and user-friendly tools for customer relationship management."
         ]},
         2: {name: 'GlobalWeb', position: 'software development analyst', fromMonth: 'june', fromYear: 2022, toMonth: 'october', toYear: 2024, activities: [
-            "i worked as an outsourced service provider for a state-owned banking system in Brasília known as BRB. My role involved regular collaboration within the team to ensure the delivery of high-quality, reliable solutions for the banking sector.",
-            "in this position, I participated in meetings with the Product Owner, following an agile methodology that included reviews and planning sessions. My responsibilities encompassed requirements analysis, sprint creation, and ongoing development of new features and general system maintenance.",
-            "the development was primarily done in PHP, where I focused on both enhancing the system with new functionalities and ensuring the stability of existing features to support BRB's financial services effectively."
+            "i worked as an outsourced service provider for a large state-owned financial institution. My role involved regular collaboration within the team to ensure the delivery of high-quality, reliable solutions.",
+            "in this position, I participated in meetings with the Product Owner following an agile methodology that included reviews and planning sessions. My responsibilities encompassed requirements analysis, sprint creation, and ongoing development of new features and general system maintenance.",
+            "the development was primarily done in PHP, where I focused on both enhancing the system with new functionalities and ensuring the stability of existing features to support the institution's services effectively."
         ]},
         3: {name: 'Conselho Regional de Contabilidade do Parána', position: 'developer', fromMonth: 'february', fromYear: 2022, toMonth: 'may', toYear: 2022, activities: [
             "development of new features and maintenance of existing systems using PHP and the Laravel framework, alongside the creation of specific-purpose REST APIs.",
-            "as this systems I developed were for a state agency, I developed secure and robust APIs to ensure safe and efficient data exchange, prioritizing reliability and compliance with data standards."
+            "as the systems were for a state agency, I developed secure and robust APIs to ensure safe and efficient data exchange, prioritizing reliability and compliance with data standards."
         ]},
         4: {name: 'Pinhão Tecnologia', position: 'junior developer', fromMonth: 'june', fromYear: 2020, toMonth: 'february', toYear: 2022, activities: [
-            "junior Developer with Full Stack skills, focused on building and maintaining dynamic and efficient applications.",
-            "i have solid experience with technologies like PHP, JavaScript, and jQuery, along with expertise in front-end frameworks such as HTML and CSS to create interactive and responsive interfaces.",
-            "with proficiency in version control and database tools like Git and phpMyAdmin, as well as JSON for data exchange, I am dedicated to creating well-structured and easily maintainable solutions."
+            "junior Developer with Full Stack skills, focused on building and maintaining dynamic and efficient web applications.",
+            "solid experience with PHP, JavaScript and jQuery, along with HTML and CSS to create interactive and responsive interfaces.",
+            "proficiency in version control and database tools including Git and phpMyAdmin, with JSON for data exchange - dedicated to creating well-structured and maintainable solutions."
         ]},
     })
 

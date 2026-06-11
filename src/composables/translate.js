@@ -1,28 +1,8 @@
 import store from "@/store";
 import { transformText } from "./textUtils";
-
-export async function gatherTranslationsFile(){
-    if(store.getters.getTranslations !== null)
-        return true;
-    getAllTranslations();
-}
+import translations from "@/assets/TranslationsList";
 
 export function getAllTranslations() {
-    if(store.getters.getTranslations !== null){
-        return store.getters.getTranslations;
-    }
-    let translations = null;
-    try {
-        const xhr = new XMLHttpRequest();
-        xhr.open('GET', '/data/translations.json', false);
-        xhr.send();
-        if (xhr.status === 200) {
-            translations = JSON.parse(xhr.responseText);
-            store.dispatch('saveTranslations', translations);
-        }
-    } catch (error) {
-        translations = null;
-    }
     return translations;
 }
 

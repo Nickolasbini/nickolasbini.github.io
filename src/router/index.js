@@ -2,7 +2,6 @@ import { createRouter, createWebHistory } from 'vue-router';
 import HomePageView from '@/views/HomePageView.vue';
 import NotFound from '@/views/NotFoundView.vue';
 import DefaultLayout from '@/layouts/DefaultLayout.vue';
-import { gatherTranslationsFile } from '@/composables/translate';
 import ipHandler from '@/composables/ipHandler';
 
 const routes = [
@@ -34,7 +33,6 @@ const router = createRouter({
 
 router.beforeEach((to, next) => {
     ipHandler.detectIp();
-    gatherTranslationsFile();
     next;
 });
 

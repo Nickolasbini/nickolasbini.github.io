@@ -36,7 +36,8 @@
     const contactOptions = ref([
         {link: 'https://wa.me/5541984320432', icon: 'pi pi-whatsapp'},
         {link: 'https://github.com/Nickolasbini', icon: 'pi pi-github'},
-        {link: 'https://www.linkedin.com/in/nickolas-alvaro-bini/', icon: 'pi pi-linkedin'}
+        {link: 'https://www.linkedin.com/in/nickolas-alvaro-bini/', icon: 'pi pi-linkedin'},
+        {link: 'https://www.youtube.com/@CodigoPraticoOficial', icon: 'pi pi-youtube'}
     ])
 
     const emailData = {
