@@ -66,14 +66,13 @@
             title: 'whatsapp bot with ai',
             description: 'multi-session WhatsApp automation built with Node.js, Baileys and OpenRouter LLM integration. Features interactive menus, conversation flow control, a "typing..." human-like effect and zero monthly cost - no Twilio, no Zenvia. Designed as a ready-to-deploy solution for local businesses.',
             stack: ['Node.js', 'Baileys', 'OpenRouter', 'REST API'],
-            github: 'https://github.com/Nickolasbini',
+            github: 'https://github.com/Nickolasbini/bot_whatsapp_with_baileys_2026_',
             video: 'https://youtu.be/JkvbnQg2OWE'
         },
         {
             title: 'real-time currency monitor',
             description: 'desktop application that tracks live exchange rates, renders dynamic real-time charts and fires automated alerts via Telegram bot when currency fluctuations are detected. Built following an MVC architecture with clean separation between data fetching, charting and notification layers.',
             stack: ['Python', 'PyQt6', 'Matplotlib', 'Telegram API', 'REST API'],
-            github: 'https://github.com/Nickolasbini',
             video: 'https://youtu.be/QTKYXON472k'
         },
         {
